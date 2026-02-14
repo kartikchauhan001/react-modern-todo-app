@@ -1,16 +1,62 @@
-# React + Vite
+🚀 React Modern Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive and minimal Todo List Application built using React + Vite.
+Designed with clean UI and smooth user experience.
 
-Currently, two official plugins are available:
+🌍 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📸 Screenshots
 
-## React Compiler
+✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+➕ Add new tasks
 
-## Expanding the ESLint configuration
+❌ Delete tasks
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📅 Date support
+
+⚡ Fast performance with Vite
+
+🎨 Clean & modern UI
+
+📱 Responsive design
+
+🛠️ Tech Stack
+
+⚛️ React
+
+⚡ Vite
+
+🎨 CSS3
+
+📜 JavaScript (ES6)
+
+todo-list-react/
+│
+├── public/
+├── src/
+│ ├── components/
+│ ├── App.jsx
+│ └── main.jsx
+│
+├── index.html
+├── package.json
+└── README.md
+
+📌 What I Learned
+
+React component structure
+
+State management using useState
+
+Event handling
+
+Clean UI structuring
+
+Git & GitHub workflow
+
+👨‍💻 Author
+
+Kartik Chauhan
+Frontend Developer
+📧 chauhankartik260@gmail.com

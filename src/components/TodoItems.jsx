@@ -1,5 +1,5 @@
 import TodoItem from "./TodoItem";
-import styles from "./TodoItems.module.css";
+import styles from "./ToDoItems.module.css";
 
 const TodoItems = ({ todoItems, onDeleteClick }) => {
   return (
