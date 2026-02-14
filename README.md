@@ -4,9 +4,10 @@ A modern, responsive and minimal Todo List Application built using React + Vite.
 Designed with clean UI and smooth user experience.
 
 🌍 Live Demo
-react-modern-todo-app.vercel.app
+https://react-modern-todo-fiufm1zj3-kartik-chauhans-projects-df515130.vercel.app
 
-📸 Screenshots
+📸 Screenshot
+
 <img width="1913" height="884" alt="image" src="https://github.com/user-attachments/assets/32e003dc-34b6-4710-b0c3-6d590d3f3e8a" />
 
 
