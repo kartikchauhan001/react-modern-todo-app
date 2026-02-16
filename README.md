@@ -8,7 +8,8 @@ https://react-modern-todo-fiufm1zj3-kartik-chauhans-projects-df515130.vercel.app
 
 📸 Screenshot
 
-<img width="1913" height="884" alt="image" src="https://github.com/user-attachments/assets/32e003dc-34b6-4710-b0c3-6d590d3f3e8a" />
+<img width="1911" height="878" alt="image" src="https://github.com/user-attachments/assets/e776beb1-d1fe-4a25-a513-10a63fc65422" />
+
 
 
 ✨ Features
